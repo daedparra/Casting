@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+c:\users\pg14david\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(65): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> c:\users\pg14david\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
